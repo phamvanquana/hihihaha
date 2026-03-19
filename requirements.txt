@@ -1,0 +1,4 @@
+PySide6>=6.6.0
+python-vlc>=3.0.18
+pysrt>=1.1.2
+pyinstaller>=6.0.0
